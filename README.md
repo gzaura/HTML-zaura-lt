@@ -1,1 +1,1 @@
-# zaura.lt
+# Simple code for zaura.lt
