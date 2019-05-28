@@ -1,5 +1,8 @@
 # HTML, CSS and JavaScript code for http://zaura.lt
 
+My first serious attempt to make website from scratch.
+Needs SCSS/CSS optimization.
+
 ## Requires Js libraries:
 
 + jquery https://jquery.com/
