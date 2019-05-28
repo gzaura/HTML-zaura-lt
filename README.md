@@ -2,8 +2,8 @@
 
 ## Requires Js libraries:
 
--- jquery
--- zepto
--- imagesloaded
--- fancybox
--- masonry
++ jquery
++ zepto
++ imagesloaded
++ fancybox
++ masonry
