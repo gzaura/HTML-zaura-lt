@@ -1,4 +1,4 @@
-# HTML, CSS and JavaScript code for http://zaura.lt
+# HTML, CSS and JavaScript code for https://zaura.lt
 
 My first serious attempt to make website from scratch.
 Needs SCSS/CSS optimization.
